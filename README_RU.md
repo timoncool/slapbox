@@ -10,7 +10,7 @@
 
 **[English](README.md)** · **[Русский](README_RU.md)**
 
-<img src="docs/teaser-ru.gif" alt="Шлёпалка над полем ввода Claude Code: попку с тату OpenAI шлёпают рукой, тапком, стеком, линейкой, сковородой, мухобойкой и ремнём, на ней остаются следы, выскакивают словечки, меняются попки: шорты, боксеры, джинсы, персик, тату Claude" width="760">
+<img src="docs/teaser.gif" alt="Шлёпалка над полем ввода Claude Code: попку с тату OpenAI шлёпают рукой, тапком, стеком, линейкой, сковородой, мухобойкой и ремнём, на ней остаются следы, выскакивают словечки, меняются попки: шорты, боксеры, джинсы, персик, тату Claude" width="760">
 
 </div>
 
@@ -72,7 +72,7 @@ claude plugin install slapbox@slapbox
 
 <img src="docs/screenshots/collapsed-ru.png" alt="Свёрнутая шлёпалка: маленькая попка и «Отшлёпать Claude · 3»" width="220">
 
-Запись со звуком: [docs/teaser-ru.mp4](docs/teaser-ru.mp4).
+Запись со звуком: [docs/teaser.mp4](docs/teaser.mp4).
 
 ## Настройки
 

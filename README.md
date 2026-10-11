@@ -10,7 +10,7 @@
 
 **[English](README.md)** · **[Русский](README_RU.md)**
 
-<img src="docs/demo-en.gif" alt="The slap box above the Claude Code prompt: a cartoon butt with a Claude tattoo gets slapped by hand, slipper, whip, ruler and frying pan; marks appear, the cheeks redden, an insult pops up and a COMBO counter grows" width="760">
+<img src="docs/teaser.gif" alt="A real Claude Code desktop session: above the prompt box a cartoon butt with an OpenAI tattoo gets slapped by hand, slipper, crop, ruler, frying pan, swatter and belt, marks appear, insults pop up, the butt changes to shorts, boxers, jeans, a peach and a Claude tattoo" width="760">
 
 </div>
 
@@ -70,7 +70,7 @@ Folded, the box is one line:
 
 <img src="docs/screenshots/collapsed-en.png" alt="The folded box: a small butt and Spank Claude · 3" width="190">
 
-A real recording with sound, Russian UI: [docs/teaser-ru.mp4](docs/teaser-ru.mp4).
+The same recording with sound (Russian UI): [docs/teaser.mp4](docs/teaser.mp4).
 
 ## Configuration
 
