@@ -1,0 +1,16 @@
+{
+  "name": "slapbox",
+  "owner": {
+    "name": "timoncool"
+  },
+  "metadata": {
+    "description": "slapbox: spank Claude when it messes up, a stress-relief mod for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "slapbox",
+      "source": "./",
+      "description": "Spank Claude when it messes up: a cartoon butt above the prompt, eight slappers, nine butts, marks, combos and sounds; your next message tells Claude how it was spanked. English and Russian."
+    }
+  ]
+}

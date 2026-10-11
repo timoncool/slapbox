@@ -1,0 +1,33 @@
+{
+  "name": "slapbox",
+  "version": "1.0.0",
+  "description": "Spank Claude when it messes up: a cartoon butt above the prompt, eight slappers, nine butts, marks, combos and sounds; your next message tells Claude how it was spanked. English and Russian.",
+  "author": {
+    "name": "timoncool"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Language",
+      "description": "Language of the slap box and of the note Claude gets: auto follows the language of your messages.",
+      "options": [
+        "auto",
+        "en",
+        "ru"
+      ],
+      "default": "auto",
+      "required": false
+    }
+  },
+  "homepage": "https://github.com/timoncool/slapbox",
+  "repository": "https://github.com/timoncool/slapbox",
+  "license": "MIT",
+  "keywords": [
+    "mod",
+    "fun",
+    "stress-relief",
+    "feedback",
+    "spank"
+  ]
+}
